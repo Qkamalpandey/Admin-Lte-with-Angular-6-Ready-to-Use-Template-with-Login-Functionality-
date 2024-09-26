@@ -130,5 +130,8 @@
       }
     }
   },
-  "defaultProject": "tempproj"
+  "defaultProject": "tempproj",
+  "cli": {
+    "analytics": false
+  }
 }
